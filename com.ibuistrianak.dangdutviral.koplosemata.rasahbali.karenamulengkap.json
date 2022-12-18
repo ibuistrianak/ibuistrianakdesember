@@ -1,0 +1,282 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+			"id": 1,
+			"name_category": "DANGDUT A",
+			"image": "file:///android_asset/image/DAK.png"
+		},
+		{
+			"id": 2,
+			"name_category": "DANGDUT B",
+			"image": "file:///android_asset/image/DBK.png"
+		}
+	],
+	"Data": [{
+			"id": 1,
+			"name_category": "DANGDUT A",
+			"title": "SEMATA KARENAMU",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA1.ogg",
+			"lyrics": "<p>Apalah arti cinta yang indah<br />Apalah arti cinta dan sayang<br />Slalu terhalang masalah lama<br />Tentang rasa percaya</p><p><br />Hati yang kujaga slalu<br />Untuk dirimu yang mengeluh<br />Tentang pribadi yang slalu salah<br />Di pandanganmu sayang</p><p><br />Tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan slalu menjagamu<br />Hingga akhir hidupku</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Tenangkan dirimu kau terlalu jauh<br />Sebenarnya aku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu</p><p><br />Tapi ku tetap trus melangkah<br />Karna ku tak mau berpisah<br />Hilangkan semua<br />Curiga yang membuat kita trus berjarak</p><p><br />Percayalah pada diriku<br />Ku kan slalu menjagamu<br />Hingga akhir hidupku</p><p><br />Malam bantu aku tuk luluhkan dia<br />Bintang bantu aku tuk tenangkan dia<br />Dari rasa cemburu dari rasa curiga<br />Karna hati ini kusimpan hanya untukmu</p><p><br />Tenangkan dirimu kau terlalu jauh<br />Sebenarnya aku tak seburuk itu<br />Semua perjuanganku di belakang dirimu<br />Semata karna ku tak mampu hidup tanpamu</p><p>Semata karna ku tak mampu hidup tanpamu</p>"
+		},
+		{
+			"id": 2,
+			"name_category": "DANGDUT A",
+			"title": "SATU RASA CINTA",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA2.ogg",
+			"lyrics": "<p>Jangan tanya bagaimana esok<br />Ku tak ingin menerka perasaan ini<br />Yang kutahu, hari ini ku mencintaimu<br />Yang kutahu, ku sangat menyayangimu</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku</p><p><br />Biarlah semua berlalu<br />Jalani seperti apa adanya<br />Bunga kan mekar meski kemarau melanda<br />Bunga kan mekar meski kemarau melanda</p><p><br />Bukan ku ingin memastikan<br />Akulah cinta sejatimu<br />Yakinkan hatimu<br />Akulah takdir yang engkau nantikan</p><p><br />Ku ingin kau merasa tentram<br />Biarlah berada di sampingku<br />Karna diriku sangat menyayangimu</p><p><br />Ku akan membuktikan cinta di hatimu<br />Satu rasa menggapai bahagia<br />Kupinang dirimu sbagai teman hidupku<br />Berjanjilah, Kasih, setia bersamaku<br />Berjanjilah, Kasih, setia bersamaku</p><p>Berjanjilah, Kasih, setia bersamaku</p>"
+		},
+		{
+			"id": 3,
+			"name_category": "DANGDUT A",
+			"title": "CARE BEBEK",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA3.ogg",
+			"lyrics": "<p>Ngude beli liu munyi<br />Care bebek kwek kwek kwek kwek<br />Liu munyi ngobral janji<br />Wa wa wa wa we we we we<br />Jungklang jungkling mencintai<br />Ngude beli mengingkari<br />Aduh sakit hati ini</p><p><br />Menangis setiap hari</p><p><br />Ngude beli liu munyi<br />Care bebek kwek kwek kwek kwek<br />Liu munyi ngobral janji<br />Wa wa wa wa we we we we<br />Jungklang jungkling mencintai<br />Ngude beli mengingkari<br />Aduh sakit hati ini</p><p><br />Sakit hati</p><p><br />Jujur tiang beli<br />Aku masih sangat mencintaimu<br />Jangan lagi beli<br />Menyakiti hati dan ingkar janji</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Tapi beli mengingkari janji</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Ngae sakit hati ini</p><p><br />Ku tak bisa lagi, ku tak mau lagi<br />Dicintai beli, tapi diingkari</p><p><br />Ngude beli liu munyi<br />Care bebek kwek kwek kwek kwek<br />Liu munyi ngobral janji<br />Wa wa wa wa we we we we<br />Jungklang jungkling mencintai<br />Ngude beli mengingkari<br />Aduh sakit hati ini</p><p><br />Sakit hati</p><p>Ngude beli liu munyi<br />Care bebek kwek kwek kwek kwek<br />Liu munyi ngobral janji<br />Wa wa wa wa we we we we<br />Jungklang jungkling mencintai<br />Ngude beli mengingkari<br />Aduh sakit hati ini</p><p><br />Jujur tiang beli<br />Aku masih sangat mencintaimu<br />Jangan lagi beli<br />Menyakiti hati dan ingkar janji</p><p><br />Mekelo kelo beli saja liunan munyi<br />Care bebek kuak kuek jeg ngumig pedidi<br />Munyi kene munyi keto ngobral janji-janji<br />Tapi beli ne selalu saja mengingkari</p><p><br />Aku tak bisa hidup seperti ini<br />Aku tak mau cinta dihianati<br />Aku tak bisa hidup seperti ini<br />Ngajak beli ne liunan munyi</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Tapi beli mengingkari janji</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Ngae sakit hati ini</p><p><br />Ku tak bisa lagi, ku tak mau lagi<br />Dicintai beli, tapi diingkari</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Tapi beli mengingkari janji</p><p><br />Care bebek kwek kwek kwek kwek<br />Liu munyi wa wa we we<br />Ngae sakit hati ini</p><p><br />Ku tak bisa lagi, ku tak mau lagi<br />Dicintai beli, tapi diingkari</p>"
+		},
+		{
+			"id": 4,
+			"name_category": "DANGDUT A",
+			"title": "RASAH BALI",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA4.ogg",
+			"lyrics": "<p>opo ora ngerti roso ati iki<br />mbiyen kowe tau ngelarani<br />tatu uwis mari ora arep mbaleni<br />nimas aku uwis ora sudi</p><p><br />wis sabendinane mung mikirke kowe<br />mergo aku durung iso lilo<br />aku ngaku salah kabeh dadi bubrah<br />kang mas jujur aku wegah pisah</p><p><br />wingi aku beneran sayang karo kowe<br />nanging ngopo sayangku<br />dinggo dolanan kowe<br />ngapurane aku uwis gawe loro<br />sayang tulung kowe ojo lungo</p><p><br />rungokno kang mas aku gelo<br />ninggalke kowe mergo milih wong liyo<br />pinginku iso bali dadi siji koyo wingi<br />salahku ora bakal tak baleni</p><p>&nbsp;</p><p>wingi aku beneran sayang karo kowe<br />nanging ngopo sayangku<br />dinggo dolanan kowe<br />ngapurane aku uwis gawe loro<br />sayang tulung kowe ojo lungo</p><p><br />critoku karo kowe uwis tak rampungi<br />mas aku durung ikhlas<br />ngeloss kabeh ini<br />cukup sewates konco aku karo kowe<br />ora sah bali aku uwis ora sudi<br />ora sah bali aku uwis ora sudi</p>"
+		},
+		{
+			"id": 5,
+			"name_category": "DANGDUT A",
+			"title": "RUNGKAD",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA5.ogg",
+			"lyrics": "<p>Mungkin<br />Aku terlalu cinta<br />Aku terlalu sayang<br />Nganti ra kroso dilarani</p><p><br />Pancen<br />Ku akui kusalah<br />Terlalu percoyo mergo<br />Mung nyawang rupo</p><p><br />Saiki aku wes sadar<br />Terlalu goblok mencintaimu</p><p><br />Rungkad<br />Entek-entekan<br />Kelangan koe sing paling tak sayang<br />Bondoku melayang tego tenan<br />Tangis-tangisan</p><p><br />Rungkad<br />Entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu gawe aku ngelu</p><p><br />Mungkin<br />Aku terlalu cinta<br />Aku terlalu sayang<br />Nganti ra kroso dilarani</p><p><br />Pancen<br />Ku akui kusalah<br />Terlalu percoyo mergo<br />Mung nyawang rupo</p><p><br />Saiki aku wes sadar<br />Terlalu goblok mencintaimu</p><p><br />Rungkad<br />Entek-entekan<br />Kelangan koe sing paling tak sayang<br />Bondoku melayang tego tenan<br />Tangis-tangisan</p><p><br />Rungkad<br />Entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu gawe aku ngelu</p><p><br />Rungkad<br />Entek-entekan<br />Kelangan koe sing paling tak sayang<br />Bondoku melayang tego tenan<br />Tangis-tangisan</p><p><br />Rungkad<br />Entek-entekan<br />Tresno tulusku mung dinggo dolanan<br />Stop mencintaimu gawe aku ngelu<br />Stop mencintaimu gawe aku ngelu</p>"
+		},
+		{
+			"id": 6,
+			"name_category": "DANGDUT A",
+			"title": "AYANG",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA6.ogg",
+			"lyrics": "<p>Lekaslah kembali, usirlah sepi<br />Yang ada di hati selama kau pergi<br />Yang aku mau cuma kamu saat ini</p><p><br />Ayang, kapan kamu pulang?<br />Pikiranku selalu terbang-melayang<br />Tak pernah ada kabar darimu<br />Walau ku tahu kamu online melulu</p><p><br />Katamu ini cuma seminggu<br />Tapi rasanya sperti sewindu<br />Ternyata sulit ku jauh darimu<br />Tanpa genit dan manja-manja denganmu</p><p><br />Peluklah tubuhku, kecup keningku<br />Tenangkan hatiku yang merindukanmu<br />Aku tak ingin kautinggalkanku sendiri lagi<br />Lekaslah kembali, usirlah sepi<br />Yang ada di hati selama kau pergi<br />Yang aku mau cuma kamu saat ini</p><p><br />Katamu ini cuma seminggu<br />Tapi rasanya sperti sewindu<br />Ternyata sulit ku jauh darimu<br />Tanpa genit dan manja-manja denganmu</p><p><br />Peluklah tubuhku, kecup keningku<br />Tenangkan hatiku yang merindukanmu<br />Aku tak ingin kautinggalkanku sendiri lagi<br />Lekaslah kembali, usirlah sepi<br />Yang ada di hati selama kau pergi<br />Yang aku mau cuma kamu saat ini</p><p><br />ayang Katamu ini cuma seminggu<br />Tapi rasanya sperti sewindu<br />Ternyata sulit ku jauh darimu<br />Tanpa genit dan manja-manja denganmu</p><p><br />Peluklah tubuhku, kecup keningku<br />Tenangkan hatiku yang merindukanmu<br />Aku tak ingin kautinggalkanku sendiri lagi<br />Lekaslah kembali, usirlah sepi<br />Yang ada di hati selama kau pergi<br />Yang aku mau cuma kamu saat ini</p><p><br />Peluklah tubuhku, kecup keningku<br />Tenangkan hatiku yang merindukanmu<br />Aku tak ingin kautinggalkanku sendiri lagi<br />Lekaslah kembali, usirlah sepi<br />Yang ada di hati selama kau pergi<br />Yang aku mau cuma kamu saat ini<br />Yang aku mau cuma kamu saat ini<br />Yang aku mau cuma kamu saat ini</p>"
+		},
+		{
+			"id": 7,
+			"name_category": "DANGDUT A",
+			"title": "GANG DOLLY",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA7.ogg",
+			"lyrics": "<p>Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Kabeh pancen luputku<br />Ninggalake sliramu<br />Nganti nekat tanpo aku<br />Njegur nang lokalisasi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Guyangan baben lan bayangan<br />Kabeh wis tak lajahi<br />Ora ono kirimo layang<br />Papanmu ono ngendi</p><p><br />Getunku kepati &ndash; pati<br />Ngrumangsani njalari<br />Neng ndi wae tak goleki<br />Lungamu menyang ngendi</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p><p><br />Tak parani ono Koji ( ono Koji )<br />Jarene wis pindah Dolly ( Pindah Dolly )<br />Age age tak tututi ( Tak Tututi )<br />Jare wis nang Kalisari</p>"
+		},
+		{
+			"id": 8,
+			"name_category": "DANGDUT A",
+			"title": "OJO DIBANDINGKE",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA8.ogg",
+			"lyrics": "<p>Wong ko ngene kok dibanding-bandingke<br />Saing-saingke, yo mesti kalah<br />Tak oyako, aku yo ora mampu<br />Mung sak kuatku mencintaimu<br />Ku berharap engkau mengerti, di hati ini<br />Hanya ada kamu</p><p><br />Jelas bedo yen dibandingke.<br />Ora ono sing tak pamerke<br />Aku ra iso yen kon gawe-gawe<br />Jujur sak onone</p><p><br />Sopo wonge sing ra loro ati<br />Wis ngancani tekan semene.<br />Nanging kabeh ora ono artine<br />Ra ono ajine</p><p><br />Wong ko ngene kok dibanding-bandingke<br />Saing-saingke, yo mesti kalah<br />Tak oyako, aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p><br />Ku berharap engkau mengerti, di hati ini<br />Hanya ada kamu</p><p><br />Sopo wonge sing ra loro ati<br />Wis ngancani tekan semene<br />Nanging kabeh ora ono artine<br />Ra ono ajine</p><p><br />Wong ko ngene kok dibanding-bandingke<br />Saing-saingke, yo mesti kalah<br />Tak oyako, aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p><br />Wong ko ngene kok dibanding-bandingke<br />Saing-saingke, yo mesti kalah<br />Tak oyako, aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p><br />Ku berharap engkau mengerti, di hati ini<br />Hanya ada kamu</p><p><br />Ku berharap engkau mengerti, di hati ini<br />Hanya ada kamu</p>"
+		},
+		{
+			"id": 9,
+			"name_category": "DANGDUT A",
+			"title": "MANGKU PUREL",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA9.ogg",
+			"lyrics": "<p>Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masadepanmu</p><p><br />Kowe wes lali omah<br />Ora Uli Ulian<br />Senengane Dolan Neng Karaokean<br />Ngandengi Penyanyi<br />Ora Cukup Siji<br />Cekelane Botol<br />Polahe Koyo Wong Tolol</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu<br />Ojo Terusan Begitu<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p>&nbsp;</p><p><br />Ndang Balio Neng Omah<br />Bojomu Wes Ngenteni<br />Ora popo ora bakal di Seneni<br />Penting kowe jujur<br />Janji ra mbaleni<br />Gek ndang mapan turu<br />Sesok isuk senam pagi</p><p><br />Aku Wes nate kondo awakmu<br />Ojo Terusan Begitu<br />Sumpaho Janji Karo Atimu<br />Siji<br />Loro<br />Telu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu</p><p><br />Mangku Purel Neng Karaokean<br />Ndemek Pupu sampai munggah neng semeru<br />Mangku Purel dudu penggawean<br />Luweh penting Mikiro Masa depanmu<br />Luweh penting Mikiro Masa depanmu</p>"
+		},
+		{
+			"id": 10,
+			"name_category": "DANGDUT A",
+			"title": "KESUCIAN ATI",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA10.ogg",
+			"lyrics": "<p>Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iki wujude<br />tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />kesucian ati<br />kesucian ati</p>"
+		},
+		{
+			"id": 11,
+			"name_category": "DANGDUT A",
+			"title": "KOYO JOGJA ISTIMEWA",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA11.ogg",
+			"lyrics": "<p>Mangan tempe rasane<br />koyo mangan lawuh sate<br />Senajan sak anane<br />Sing penting karo kowe</p><p><br />Ngombe kembang tahu rasane<br />koyo ngombe susu<br />Rausah mecucu<br />tresno ku ro kowe ra bakal tak madu</p><p><br />Bungah tenan rasane<br />wong kang lagi gandrung<br />tak perjuangke<br />tekan janur melengkung</p><p><br />kowe siji siji ne<br />aku bangga karo kowe<br />gelem nompo opo anane<br />Tresno ku ra bakal mletre</p><p><br />Kowe ojo sumelang<br />tresna ku ra bakal ilang<br />Ibarat koyo kuto ku jogja<br />Kowe cen istimewa</p><p><br />Mangan tempe rasane<br />koyo mangan lawuh sate<br />Senajan sak anane<br />Sing penting karo kowe</p><p><br />Ngombe kembang tahu rasane<br />koyo ngombe susu<br />Rausah mecucu<br />tresno ku ro kowe ra bakal tak madu</p><p><br />Bungah tenan rasane<br />wong kang lagi gandrung<br />tak perjuangke<br />tekan janur melengkung</p><p><br />kowe siji siji ne<br />aku bangga karo kowe<br />gelem nompo opo anane<br />Tresno ku ra bakal mletre</p><p><br />Kowe ojo sumelang<br />tresna ku ra bakal ilang<br />Ibarat koyo kuto ku jogja<br />Kowe cen istimewa</p><p><br />Mangan tempe rasane<br />koyo mangan lawuh sate<br />Senajan sak anane<br />Sing penting karo kowe</p><p><br />Ngombe kembang tahu rasane<br />koyo ngombe susu<br />Rausah mecucu<br />tresno ku ro kowe ra bakal tak madu</p><p><br />Bungah tenan rasane<br />wong kang lagi gandrung<br />tak perjuangke<br />tekan janur melengkung</p><p><br />kowe siji siji ne<br />aku bangga karo kowe<br />gelem nompo opo anane<br />Tresno ku ra bakal mletre</p><p><br />Kowe ojo sumelang<br />tresna ku ra bakal ilang<br />Ibarat koyo kuto ku jogja<br />Kowe cen istimewa</p><p><br />kowe siji siji ne<br />aku bangga karo kowe<br />gelem nompo opo anane<br />Tresno ku ra bakal mletre</p><p><br />Kowe ojo sumelang<br />tresna ku ra bakal ilang<br />Ibarat koyo kuto ku jogja<br />Kowe cen istimewa<br />Ibarat koyo kuto ku jogja<br />Kowe cen istimewa</p>"
+		},
+		{
+			"id": 12,
+			"name_category": "DANGDUT A",
+			"title": "JOKO TINGKIR",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA12.ogg",
+			"lyrics": "<p>Joko Tingkir Ngombe dawet<br />Jo dipikir marai mumet<br />Joko tingkir ngombe dapur<br />Marai mumet ning sirah ajur<br />Marai mumet ning sirah ajur</p><p><br />Ning Purwokerto Tuku Ketan<br />Iki Cerito Anak Rantauan<br />Lombok Rawit Pedes Tenan<br />Golek Duwet Kanggo Masa Depan<br />Golek Duwet Kanggo Masa Depan</p><p><br />Rokok Klobot Ning Ngisor Wit Mlinjo<br />Paling Abot Ninggal Anak Bojo<br />Tuku Donat Ning Kalimantan<br />Tetep Semangat Kanggo Masa Depan<br />Tetep Semangat Kanggo Masa Depan</p><p><br />Godong Knikir Godong Koro<br />Ojo Dipikir Aku Arep Ngliyo<br />Mangan Jamur Mangan Koro<br />Aku Jujur Kowe Ora Percoyo<br />Aku Jujur Kowe Ora Percoyo</p><p><br />Joko Tingkir Ngombe dawet<br />Jo dipikir marai mumet<br />Joko tingkir ngombe dapur<br />Marai mumet ning sirah ajur<br />Marai mumet ning sirah ajur</p><p><br />Ning Purwokerto Tuku Ketan<br />Iki Cerito Anak Rantauan<br />Lombok Rawit Pedes Tenan<br />Golek Duwet Kanggo Masa Depan<br />Golek Duwet Kanggo Masa Depan</p><p><br />Rokok Klobot Ning Ngisor Wit Mlinjo<br />Paling Abot Ninggal Anak Bojo<br />Tuku Donat Ning Kalimantan<br />Tetep Semangat Kanggo Masa Depan<br />Tetep Semangat Kanggo Masa Depan</p><p><br />Godong Knikir Godong Koro<br />Ojo Dipikir Aku Arep Ngliyo<br />Mangan Jamur Mangan Koro<br />Aku Jujur Kowe Ora Percoyo<br />Aku Jujur Kowe Ora Percoyo</p><p><br />Joko Tingkir Ngombe dawet<br />Jo dipikir marai mumet<br />Joko tingkir ngombe dapur<br />Marai mumet ning sirah ajur<br />Marai mumet ning sirah ajur</p><p><br />Ning Purwokerto Tuku Ketan<br />Iki Cerito Anak Rantauan<br />Lombok Rawit Pedes Tenan<br />Golek Duwet Kanggo Masa Depan<br />Golek Duwet Kanggo Masa Depan</p><p><br />Rokok Klobot Ning Ngisor Wit Mlinjo<br />Paling Abot Ninggal Anak Bojo<br />Tuku Donat Ning Kalimantan<br />Tetep Semangat Kanggo Masa Depan<br />Tetep Semangat Kanggo Masa Depan</p><p><br />Godong Knikir Godong Koro<br />Ojo Dipikir Aku Arep Ngliyo<br />Mangan Jamur Mangan Koro<br />Aku Jujur Kowe Ora Percoyo<br />Aku Jujur Kowe Ora Percoyo</p>"
+		},
+		{
+			"id": 13,
+			"name_category": "DANGDUT A",
+			"title": "DALAM GELAKKU MENANGIS",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA13.ogg",
+			"lyrics": "<p>Hilang kasih, hilanglah sayang<br />Hilang rindu, hampa di hati<br />Sejak kau pergi tinggalkan aku<br />Tanpa alasan, engkau berlalu</p><p><br />Hingga hati bertanya-tanya<br />Sebab apa dikau berlalu<br />Adakah salahku pada dirimu?<br />Sampai saat ini, aku tak tahu</p><p><br />Tiada mendung, hujan pun turun<br />Panas terik, aku kedinginan<br />Seperti itu diriku kini<br />Rasa bersalah tidak ku tahu</p><p><br />Bukannya mimpi, tetapi tlah nyata<br />Bertahun-tahun, diriku tersiksa<br />Di dalam gelap, aku menangis<br />Bayangan kasih slalu mendatang</p><p><br />Hingga hati bertanya-tanya<br />Sebab apa dikau berlalu<br />Adakah salahku pada dirimu?<br />Sampai saat ini, aku tak tahu</p><p><br />Tiada mendung, hujan pun turun<br />Panas terik, aku kedinginan<br />Seperti itu diriku kini<br />Rasa bersalah tidak ku tahu</p><p><br />Bukannya mimpi, tetapi tlah nyata<br />Bertahun-tahun, diriku tersiksa<br />Di dalam gelap, aku menangis<br />Bayangan kasih slalu mendatang</p><p><br />Hingga hati bertanya-tanya<br />Sebab apa dikau berlalu<br />Adakah salahku pada dirimu?<br />Sampai saat ini, aku tak tahu</p><p><br />Tiada mendung, hujan pun turun<br />Panas terik, aku kedinginan<br />Seperti itu diriku kini<br />Rasa bersalah tidak ku tahu</p><p><br />Bukannya mimpi, tetapi tlah nyata<br />Bertahun-tahun, diriku tersiksa<br />Di dalam gelap, aku menangis<br />Bayangan kasih slalu mendatang</p>"
+		},
+		{
+			"id": 14,
+			"name_category": "DANGDUT A",
+			"title": "1 ATAU 2",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA14.ogg",
+			"lyrics": "<p>Oh indahnya hidupku saat bersamamu<br />Dan sakitnya hatiku setelah kau duakan cintaku<br />Oh sungguh tak ku sangka semuanya terjadi<br />Diam-diam kau suka kepada temanku sendiri</p><p><br />Setelah ku tahu kau bagi cintaku<br />Betapa sakitnya rasa di hatiku<br />Aku pun tak tahu<br />Aku cinta dia dan dirimu</p><p><br />Satu atau dua pilih aku atau dia yang engkau suka<br />Satu atau dua pilih aku atau dia yang engkau cinta<br />Dua atau satu pilih dia atau kamu aku tak tahu<br />Karena diriku bingung harus pilih dia atau dirimu</p><p><br />Oh sungguh tak ku sangka semuanya terjadi<br />Diam-diam kau suka kepada temanku sendiri</p><p><br />Satu atau dua pilih aku atau dia yang engkau suka<br />Satu atau dua pilih aku atau dia yang engkau cinta<br />Dua atau satu pilih dia atau kamu aku tak tahu<br />Karena diriku bingung harus pilih dia atau dirimu</p><p><br />Setelah ku tahu kau bagi cintaku<br />Betapa sakitnya rasa di hatiku<br />Aku pun tak tahu<br />Aku cinta dia dan dirimu</p><p><br />Satu atau dua pilih aku atau dia yang engkau suka<br />Satu atau dua pilih aku atau dia yang engkau cinta<br />Dua atau satu pilih dia atau kamu aku tak tahu<br />Karena diriku bingung harus pilih dia atau dirimu</p><p><br />Setelah ku tahu kau bagi cintaku<br />Betapa sakitnya rasa di hatiku<br />Aku pun tak tahu<br />Aku cinta dia dan dirimu</p><p><br />Satu atau dua pilih aku atau dia yang engkau suka<br />Satu atau dua pilih aku atau dia yang engkau cinta<br />Dua atau satu pilih dia atau kamu aku tak tahu<br />Karena diriku bingung harus pilih dia atau dirimu</p><p><br />Satu atau dua pilih aku atau dia yang engkau suka<br />Satu atau dua pilih aku atau dia yang engkau cinta<br />Dua atau satu pilih dia atau kamu aku tak tahu<br />Karena diriku bingung harus pilih dia atau dirimu</p>"
+		},
+		{
+			"id": 15,
+			"name_category": "DANGDUT A",
+			"title": "TIARA",
+			"image": "file:///android_asset/image/DAK.png",
+			"link_mp3": "mp3/DUSMTDA15.ogg",
+			"lyrics": "<p>Tiara, menggamit kenangan zaman persekolahan<br />Tiara, kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam<br />Di malam pesta, engkau bisikkan kata azimat di telinga</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini</p><p><br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini</p><p><br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini</p><p><br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan</p>"
+		},
+		{
+			"id": 16,
+			"name_category": "DANGDUT B",
+			"title": "DERMAGA BIRU",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA16.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 17,
+			"name_category": "DANGDUT B",
+			"title": "EFEK GEDANG KLUTUK",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA17.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 18,
+			"name_category": "DANGDUT B",
+			"title": "KLEBUS",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA18.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 19,
+			"name_category": "DANGDUT B",
+			"title": "MIDUAN CINTA",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA19.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 20,
+			"name_category": "DANGDUT B",
+			"title": "MINYAK WANGI",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA20.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 21,
+			"name_category": "DANGDUT B",
+			"title": "MISTER MENDEM",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA21.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 22,
+			"name_category": "DANGDUT B",
+			"title": "RUNTAH",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA22.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 23,
+			"name_category": "DANGDUT B",
+			"title": "RASAH DADI PELANGI",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA23.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 24,
+			"name_category": "DANGDUT B",
+			"title": "TUGIMAN",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA24.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 25,
+			"name_category": "DANGDUT B",
+			"title": "TEPUNG KANJI 2",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA25.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 26,
+			"name_category": "DANGDUT B",
+			"title": "TETEG ATI",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA26.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 27,
+			"name_category": "DANGDUT B",
+			"title": "FULL SENYUM SAYANG",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA27.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 28,
+			"name_category": "DANGDUT B",
+			"title": "SETIA UNTUK SELAMANYA",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA28.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 29,
+			"name_category": "DANGDUT B",
+			"title": "TANGISE SARANGAN",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA29.ogg",
+			"lyrics": ""
+		},
+		{
+			"id": 30,
+			"name_category": "DANGDUT B",
+			"title": "TOP TOPAN",
+			"image": "file:///android_asset/image/DBK.png",
+			"link_mp3": "mp3/DUSMTDA30.ogg",
+			"lyrics": ""
+		}
+	]
+}
