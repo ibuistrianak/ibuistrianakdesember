@@ -1,0 +1,292 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "main_ads_natives":"",
+      "main_ads_rewards":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "PILIHAN A",
+      "image": "file:///android_asset/image/PA.png"
+    },
+    {
+      "id": 2,
+      "name_category": "PILIHAN B",
+      "image": "file:///android_asset/image/PB.png"
+    }
+  ],
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "PILIHAN A",
+      "title": "MAMAS",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI1.ogg",
+      "lyrics": "<p>hidup tidak tau sampai kapan<br />entah esok harikah atau minggu depan<br />bisa bisanya bulan depan atau tahun depan<br />entah kapan bisa kapan kapan</p><p><br />dihitung hitung dah kaya hutang<br />bukan juga hidup harus jadi pecundang<br />isy kariman isy kariman<br />hidup mulia atau kamu mati terhina</p><p><br />kecilnya bahagia, mudanya kaya raya<br />mati masuk surga woo oow<br />tak cuma hidup baik, mati pun harus baik<br />dua duanya baik woo oo</p><p><br />yang mati masuk surga, yang mati masuk surga<br />yang hidup dinanti surga<br />yang mati masuk surga, yang mati masuk surga<br />yang hidup dinanti surga</p><p><br />kecilnya bahagia, mudanya kaya raya<br />mati masuk surga woo oow<br />tak cuma hidup baik, mati pun harus baik<br />dua duanya baik woo oo</p><p><br />yang mati masuk surga, yang mati masuk surga<br />yang hidup dinanti surga<br />yang mati masuk surga, yang mati masuk surga<br />yang hidup dinanti surga</p><p><br />yang mati masuk surga, yang mati masuk surga<br />yang hidup dinanti surga</p>"
+	},
+    {
+      "id": 2,
+      "name_category": "PILIHAN A",
+      "title": "SAKIT TAK BERDARAH",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI2.ogg",
+      "lyrics": "<p>Sayang mengapa kau meninggalkan aku<br />Sayang mengapa kau kau memilih dia</p><p><br />Beginikah rasanya sakit tak berdarah<br />Tak ku sangka begitu hebatnya<br />Ini lebih pedih, ini lebih perih, ini lebih sakit karena kamu<br />Karena kamu aku jadi tau rasa sakit sakit tak berdarah<br />Ini lebih pedih, ini lebih perih, ini lebih sakit takkan lagi lagi</p><p><br />Bila aku tak pernah kenal tuhan mungkin kisah ini kan berakhir<br />Tapi aku sedih tuhan dia hancurkan ku<br />Aku lelah tuhan dia dzolimi ku tolong aku tuhan</p><p><br />Beginikah rasanya sakit tak berdarah<br />Tak ku sangka begitu hebatnya<br />Ini lebih pedih, ini lebih perih, ini lebih sakit karena kamu<br />Karena kamu aku jadi tau rasa sakit sakit tak berdarah<br />Ini lebih pedih, ini lebih perih, ini lebih sakit takkan lagi lagi</p><p><br />Beginikah oh rasanya sakit tak berdarah<br />Tak ku sangka begitu hebatnya<br />Ini lebih pedih, ini lebih perih, ini lebih sakit karena kamu<br />Karena kamu aku jadi tau rasa sakit sakit tak berdarah<br />Ini lebih pedih, ini lebih perih, ini lebih sakit takkan lagi lagi<br />Ini lebih pedih, ini lebih perih, ini lebih sakit takkan lagi lagi</p>"
+	},
+	{
+      "id": 3,
+      "name_category": "PILIHAN A",
+      "title": "SERPIHAN HATIKU",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI3.ogg",
+      "lyrics": "<p>Bila saat nanti kau hancurkan hatiku<br />Ku tetap sayangimu walau hanya dengan serpihan hatiku<br />Yang telah kau hancurkan</p><p><br />Bila saat nanti kau remukan hatiku<br />Ku tetap cintaimu walau hanya dengan serpihan hatiku<br />Yang telah kau remukan</p><p><br />Lihatlah mentari pagi telah berganti senja sore hari<br />Begitupun yang terjadi pada setiap isi dihati<br />Bukan ku tak mempercayaimu<br />Tapi tak ada hati yang tak pernah tak berubah</p><p><br />Bila saat nanti kau hancurkan hatiku<br />Ku tetap sayangimu walau hanya dengan serpihan hatiku<br />Yang telah kau hancurkan</p><p><br />Bila saat nanti kau remukan hatiku<br />Ku tetap cintaimu walau hanya dengan serpihan hatiku<br />Yang telah kau remukan</p><p><br />(Sudahlah jangan fikirkan itu takkan ku lakukan<br />Serahkanlah pada Tuhan pemberi jawaban)</p><p><br />Bila saat nanti kau hancurkan hatiku<br />Ku tetap sayangimu walau hanya dengan serpihan hatiku<br />Yang telah kau hancurkan</p><p><br />Bila saat nanti kau remukan hatiku<br />Ku tetap cintaimu walau hanya dengan serpihan hatiku<br />Yang telah kau remukan<br />Serpihan hatiku<br />Yang telah kau remukan</p>"
+	},
+	{
+      "id": 4,
+      "name_category": "PILIHAN A",
+      "title": "LAMAR AKU",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI4.ogg",
+      "lyrics": "<p>Buka mata buka hati<br />Buka mata hati kasih<br />Tolong baca tolonglah dibaca<br />Lihat tulisan ini</p><p><br />Pelan pelan pelan pelan<br />Pelan pelan kau pahami<br />Tiap kata setiap baris kata<br />Ini permintaan hati</p><p><br />Aku tak butuh kata I love you<br />Aku tak butuh kata I need you<br />Yang ku mau datangi ayahku<br />Katakan ku kan lamar putrimu</p><p>Sudah cukup darimu I love you<br />Sudah cukup darimu I need you<br />Yang ku mau datangi ayahku<br />Katakan ku kan lamar putrimu</p><p><br />Apalagi apalagi<br />Alasannya apalagi<br />Lamar aku lamarlah diriku<br />Tak cuma I love you</p><p><br />Aku tak butuh kata I love you<br />Aku tak butuh kata I need you<br />Yang ku mau datangi ayahku<br />Katakan ku kan lamar putrimu</p><p><br />Sudah cukup darimu I love you<br />Sudah cukup darimu I need you<br />Yang ku mau datangi ayahku<br />Katakan ku kan lamar putrimu</p><p><br />(Aku tak butuh kata I love you<br />Aku tak butuh kata I need you<br />Yang ku mau datangi ayahku<br />Katakan ku kan lamar putrimu</p><p><br />Sudah cukup darimu I love you<br />Sudah cukup darimu I need you<br />Yang ku mau datangi ayahku<br />Katakan ku kan lamar putrimu)</p><p><br />Aku tak butuh kata I love you<br />Aku tak butuh kata I need you<br />Yang ku mau datangi ayahku<br />Katakan ku kan lamar putrimu</p><p><br />Sudah cukup darimu I love you<br />Sudah cukup darimu I need you<br />Yang ku mau datangi ayahku<br />Katakan ku kan lamar putrimu</p>"
+	},
+	{
+      "id": 5,
+      "name_category": "PILIHAN A",
+      "title": "KUY HIJRAH",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI5.ogg",
+      "lyrics": "<p>Orrait... kau yang tengah senang senang<br />Tuhankan dunia aduh sayang<br />Lupakan Allah sungguhlah malang<br />Naudzubillah... Orrait... Orrait... Orrait...</p><p><br />Orrait... pabila nyawa melayang<br />Badan terbujur dikurung batang<br />Dimana duniamu oh sayang<br />Orrait... Orrait... Orrait...</p><p><br />Dan kuy... kuy... kuy... kuy kita hijrah<br />Dan kuy... kuy... kuy... ayo berubah<br />Dan kuy... kuy... kuy... niat ibadah<br />Orrait... Orrait... Orrait...</p><p><br />Dan kuy... kuy... kuy... kuy kita hijrah<br />Dan kuy... kuy... kuy... mantap melangkah<br />Dan kuy... kuy... kuy... ucap bismillah<br />Orrait... Orrait... Orrait...</p><p><br />Orrait... jangan buka aurat<br />Orrait... tolong jagalah syahwat<br />Taukah kamu ini amanat<br />Orrait... Orrait... Orrait...</p><p><br />Orrait... tak ada kata terlambat<br />Orrait... sebelum menjadi mayat<br />Orrait... Allah menunggu taubat<br />Orrait... Orrait... Orrait...</p><p><br />Orrait...<br />Dan kuy... kuy... kuy... kuy kita hijrah<br />Dan kuy... kuy... kuy... ayo berubah<br />Dan kuy... kuy... kuy... niat ibadah<br />Orrait... Orrait... Orrait...</p><p><br />Dan kuy... kuy... kuy... kuy kita hijrah<br />Dan kuy... kuy... kuy... mantap melangkah<br />Dan kuy... kuy... kuy... ucap bismillah<br />Orrait... Orrait... Orrait...</p><p><br />Dan kuy... kuy... kuy... kuy kita hijrah<br />Dan kuy... kuy... kuy... ayo berubah<br />Dan kuy... kuy... kuy... niat ibadah<br />Orrait... Orrait... Orrait...</p><p><br />Dan kuy... kuy... kuy... kuy kita hijrah<br />Dan kuy... kuy... kuy... mantap melangkah<br />Dan kuy... kuy... kuy... ucap bismillah<br />Orrait... Orrait... Orrait...</p><p><br />Dan kuy... kuy... kuy... kuy kita hijrah<br />Dan kuy... kuy... kuy... ayo berubah<br />Dan kuy... kuy... kuy... niat ibadah<br />Orrait... Orrait... Orrait...</p><p><br />Dan kuy... kuy... kuy... kuy kita hijrah<br />Dan kuy... kuy... kuy... mantap melangkah<br />Dan kuy... kuy... kuy... ucap bismillah<br />Orrait... Orrait... Orrait...<br />Orrait... Orrait... Orrait...</p>"
+	},
+	{
+      "id": 6,
+      "name_category": "PILIHAN A",
+      "title": "WASIAT SANG KEKASIH",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI6.ogg",
+      "lyrics": "<p>Hari ini aku ingin<br />Ungkapkan pada dirimu<br />Tentang kita tentang semua<br />Yang hadir dan yang pergi</p><p><br />Kekasih ini dari<br />Dalam lubuk hatiku untukmu seorang</p><p><br />Maukah dirimu berjanji<br />Bila nanti aku tiada<br />Doakan aku disujudmu<br />Ini wasiat sang kekasih<br />Genggam hingga kau juga mati<br />Sayangi aku hanya aku</p><p><br />Jangan nangis jangan sedih<br />Semua pasti kembali<br />Begitupun di diri ini<br />Tak ada yang abadi</p><p><br />Kekasih genggam janji<br />Dalam lubuk hatiku untukmu seorang</p><p><br />Maukah dirimu berjanji<br />Bila nanti aku tiada<br />Doakan aku disujudmu<br />Ini wasiat sang kekasih<br />Genggam hingga kau juga mati<br />Sayangi aku hanya aku</p><p><br />Maukah dirimu berjanji<br />Bila nanti aku tiada<br />Doakan aku disujudmu<br />Ini wasiat sang kekasih<br />Genggam hingga kau juga mati<br />Sayangi aku hanya aku</p><p><br />Maukah dirimu berjanji<br />Bila nanti aku tiada<br />Doakan aku disujudmu<br />Ini wasiat sang kekasih<br />Genggam hingga kau juga mati<br />Sayangi aku hanya aku<br />Sayangi aku hanya aku</p>"
+	},
+	{
+      "id": 7,
+      "name_category": "PILIHAN A",
+      "title": "MATANYO",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI7.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 8,
+      "name_category": "PILIHAN A",
+      "title": "BOCAH NGAPA YA",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI8.ogg",
+      "lyrics": "<p>Disuruh sholat gak pernah mau<br />Disuruh zakat juga gak mau<br />Bulan puasa batal melulu<br />Diajak ngaji bilangnya malu</p><p><br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak</p><p><br />Disuruh tobat galakan situ<br />Diajak bener marahan situ<br />Hari gini ko masih begitu<br />Ayo hijrah jangan pake nunggu</p><p><br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak</p><p><br />Udah tua masih aja males sholat lah bocah ngapa yak<br />Udah tua bolong bolang puasanya lah bocah ngapa yak<br />Udah tua masih aja hura hura lah bocah ngapa yak<br />Udah tua masih aja kaya bocah lah bocah ngapa yak</p><p><br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak</p><p><br />Giliran kejedot aduh aduh<br />Malaikat sewot kau baru tau<br />Gue gulung<br />(Gue gulung)<br />Gue gulung<br />(Gue gulung)<br />Pake otak jangan pake nafsu</p><p><br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak</p><p><br />Udah tua masih aja males sholat lah bocah ngapa yak<br />Udah tua bolong bolang puasanya lah bocah ngapa yak<br />Udah tua masih aja hura hura lah bocah ngapa yak<br />Udah tua masih aja kaya bocah lah bocah ngapa yak</p><p><br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak</p><p><br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak</p><p><br />Udah tua masih aja males sholat lah bocah ngapa yak<br />Udah tua bolong bolang puasanya lah bocah ngapa yak<br />Udah tua masih aja hura hura lah bocah ngapa yak<br />Udah tua masih aja kaya bocah lah bocah ngapa yak</p><p><br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak<br />(Bocah makan paya)<br />Bocah ngapa yak<br />(Bocah ngapa yak)<br />Bocah ngapa yak<br />Bocah ngapa yak<br />Bocah ngapa yak</p>"
+	},
+	{
+      "id": 9,
+      "name_category": "PILIHAN A",
+      "title": "KEKASIH HALAL",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI9.ogg",
+      "lyrics": "<p>Aku telah lelah<br />Memilih memilah mencari wanita<br />Siapakah dirinya<br />Yang kan menjadi kekasih halalku</p><p><br />Tiba-tiba aku terpana<br />Ada kejutan tak terduga</p><p><br />Dia gadis berkerudung merah<br />Hatiku tergoda tergugah<br />Tak cuma parasnya yang indah<br />Dia baik dia soleha</p><p><br />Dia gadis berkerudung merah<br />Bawalah diriku padanya<br />Takkan habis ku berdoa<br />Jadi kekasih halalnya</p><p><br />Jadikan diriku halal<br />Memeluk halal menciummu<br />Lekaslah jangan tunda<br />Untuk menjadi kekasih halalku</p><p><br />Itu itu dia gadis berkerudung merah<br />Hatiku tergoda tergugah<br />Tak cuma parasnya yang indah<br />Dia baik dia soleha</p>"
+	},
+	{
+      "id": 10,
+      "name_category": "PILIHAN A",
+      "title": "TAKDIRKAN",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI10.ogg",
+      "lyrics": "<p>Saat ku memandangimu<br />Ku rasakan tulus sayangmu<br />Sayangiku dududududu<br />Tak peduli siapa aku</p><p><br />Tuhan takdirkan dia untukku<br />Terbaik seumur hidupku<br />Tuhan jadikan ia untukku<br />Takdirmu di sisa hidupku</p><p><br />Bersandarlah kau di bahuku<br />Dan rasakan aku sayang kamu<br />Sayangku dududududu<br />Aku hanya mau kamu</p><p><br />Tuhan takdirkan dia untukku<br />Terbaik seumur hidupku<br />Tuhan jadikan ia untukku<br />Takdirmu di sisa hidupku</p><p><br />Aku yang hanya bisa berdoa<br />Tuk buat engkau bahagia</p><p><br />Tuhan takdirkan dia untukku, terbaik seumur hidupku<br />Tuhan jadikan ia untukku, takdirmu di sisa hidupku<br />Di sisa hidupku, di sisa hidupku</p>"
+	},
+	{
+      "id": 11,
+      "name_category": "PILIHAN A",
+      "title": "ADA GAJAH DIBALIK BATU",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI11.ogg",
+      "lyrics": "<p>Ee ee (aaa)<br />Ada yang lagi deketin aku<br />Eh eh (aaa)<br />Aku pura-pura nggak tau</p><p><br />Ee ee (aaa)<br />Tiap hari nanyain aku<br />Ee ee (aaa)<br />Udah makan<br />Udah mandi<br />Udah tidur<br />Udah, udah udah udah nanya melulu<br />Teng teng teng teng teng<br />Teng teng teng teng teng</p><p><br />Ada gajah di balik batu<br />Batunya hilang gajahnya datang<br />Aku tau maksud dirimu<br />D!am-diam suka padaku</p><p><br />Ada gajah di balik batu<br />Batunya hilang gajahnya datang<br />Jangan diam-diam begitu<br />Ketiban gajah kamu baru tau</p><p><br />Ee ee (aa)<br />Usaha sih boleh usaha<br />Ee ee (aa)<br />Tapi nggak gitu juga keleus</p><p><br />Ee ee (aa)<br />Tiap hari nanyain aku<br />Ee ee (aa)<br />Udah makan<br />Udah mandi<br />Udah tidur<br />Udah, udah udah udah nanya melulu<br />Teng teng teng teng teng<br />Teng teng teng teng teng</p><p><br />Ada gajah di balik batu<br />Batunya hilang gajahnya datang<br />Aku tau maksud dirimu<br />D!am-diam suka padaku</p><p><br />Ada gajah di balik batu<br />Batunya hilang gajahnya datang<br />Jangan diam-diam begitu<br />Ketiban gajah kamu baru tau</p><p><br />Ee ee (aa)<br />Usaha sih boleh usaha<br />Ee ee (aa)<br />Tapi nggak gitu juga keleus</p><p><br />Ee ee (aa)<br />Tiap hari nanyain aku<br />Ee ee (aa)<br />Udah makan<br />Udah mandi<br />Udah tidur<br />Udah, udah udah udah nanya melulu<br />Teng teng teng teng teng<br />Teng teng teng teng teng</p>"
+	},
+    {
+      "id": 12,
+      "name_category": "PILIHAN A",
+      "title": "ORANG BILANG",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI12.ogg",
+      "lyrics": "<p>Kamu bilang padaku bahwa kamu benar sayang<br />Kau bilang aku kau akan selalu sayang<br />Dan kamu bilang aku cinta kamu sayang</p><p><br />Kamu bilang padaku bahwa kamu benar cinta<br />Kau bilang aku kau akan selalu cinta<br />Dan kamu bilang aku sayang kamu cinta</p><p><br />[Reff:]<br />Tapi orang bilang katanya kamu nggak sayang<br />Orang bilang katanya kamu nggak cinta<br />Orang bilang tentang kamu orang bilang</p><p><br />Sekarang kamu bilang bahwa kamu paling sayang<br />Sekarang bilang bahwa kamu paling cinta<br />Sekarang bilang aku siap mati sayang</p>"
+	},
+	{
+      "id": 13,
+      "name_category": "PILIHAN A",
+      "title": "EMANG DASAR",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI13.ogg",
+      "lyrics": "<p>Aku tahu kamu<br />Kamu seorang bajingan<br />Aku tahu kamu<br />Kau banyak jurus andalan</p><p><br />Matamu stereo<br />Lihat ke kiri ke kanan<br />Apalagi menawan<br />Pasti bakal kebobolan</p><p><br />Tapi ada satu hal yang harus kamu tau<br />Wanita juga tak mau bila terus-terus kau tipu</p><p><br />[Reff:]<br />Satu pasangan tak cukup<br />Dua simpanan juga tak cukup<br />Emang dasar emang dasar<br />Eh dasar kamu bajingan</p><p><br />Kamu mau apalagi<br />Kamu mau yang gimana lagi<br />Emang dasar emang dasar<br />Eh dasar kamu bajingan</p>"
+	},
+	{
+      "id": 14,
+      "name_category": "PILIHAN A",
+      "title": "DOA UNTUKMU SAYANG",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI14.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 15,
+      "name_category": "PILIHAN A",
+      "title": "AKU BUKAN BANG TOYIB",
+      "image": "file:///android_asset/image/PA.png",
+      "link_mp3": "mp3/WALDUKAPKI15.ogg",
+      "lyrics": "<p>Kau bilang padaku, kau ingin bertemu<br />Ku bilang padamu oh ya nanti dulu<br />Aku lagi sibuk sayang, aku lagi kerja sayang<br />Untuk membeli beras dan sebongkah berlian</p><p><br />Sayang, aku bukanlah bang toyib<br />Yang tak pulang-pulang<br />Yang tak pasti kapan dia datang</p><p><br />Sabar sayang, sabarlah sebentar<br />Aku pasti pulang karna aku bukan<br />Aku bukan bang toyib</p><p><br />Sudah tunggu saja diriku di rumah<br />Jangan marah-marah, duduk yang manis ya<br />Aku lagi sibuk sayang, aku lagi kerja sayang<br />Untuk membeli beras dan sebongkah berlian</p><p><br />Sayang, aku bukanlah bang toyib<br />Yang tak pulang-pulang<br />Yang tak pasti kapan dia datang</p><p><br />Sayang, aku bukanlah bang toyib uhh<br />Yang tak pulang-pulang<br />Yang tak pasti kapan dia datang</p><p><br />Sabar sayang, sabarlah sebentar<br />Aku pasti pulang karna aku bukan<br />Aku bukan aku bukan aku bukan bang toyib</p>"
+	},
+	{
+      "id": 16,
+      "name_category": "PILIHAN B",
+      "title": "BAIK BAIK SAYANG",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI16.ogg",
+      "lyrics": "<p>Aku tak ingin kau menangis bersedih<br />Sudahi air mata darimu<br />Yang aku ingin arti hadir diriku<br />Kan menghapus dukamu sayang</p><p><br />Karena bagiku kau kehormatanku<br />Dengarkan dengarkan aku</p><p><br />[Reff:]<br />Hanya satu pintaku untukmu dan hidupku<br />Baik baik sayang ada aku untukmu<br />Hanya satu pintaku di siang dan malammu<br />Baik baik sayang karna aku untukmu</p><p><br />Semua keinginan akan aku lakukan<br />Sekuat semampuku sayang<br />Karena bagiku kau kehormatanku<br />Dengarkan dengarkan aku</p><p><br />Hanya satu pintaku untukmu dan hidupku<br />Baik baik sayang ada aku untukmu<br />Hanya satu pintaku di siang dan malammu<br />Baik baik sayang karna aku untukmu</p>"
+	},
+	{
+      "id": 17,
+      "name_category": "PILIHAN B",
+      "title": "CARI JODOH",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI17.ogg",
+      "lyrics": "<p>Apa salahku apa salah ibuku<br />Hidupku dirundung pilu<br />Tak ada yang mau dan menginginkan aku<br />Tuk jadi pengobat pilu<br />Tuk jadi penawar rindu<br />Tuk jadi kekasih hatiku</p><p><br />Timur ke barat selatan ke utara<br />Tak juga aku berjumpa<br />Dari musim duren hingga musim rambutan<br />Tak kunjung aku dapatkan<br />Tak jua aku temukan<br />Oh Tuhan inikah cobaan</p><p><br />Ibu-ibu bapak-bapak<br />Siapa yang punya anak<br />Bilang aku aku yang tengah malu<br />Sama teman-temanku<br />Karna cuma diriku yang tak laku-laku</p><p><br />Pengumuman-pengumuman<br />Siapa yang mau bantu<br />Tolong aku kasihani aku<br />Tolong carikan diriku kekasih hatiku<br />Siapa yang mau</p><p><br />Timur ke barat selatan ke utara<br />Tak juga aku berjumpa<br />Dari musim duren hingga musim rambutan<br />Tak kunjung aku dapatkan<br />Tak jua aku temukan<br />Oh Tuhan inikah cobaan</p><p><br />Ibu-ibu bapak-bapak<br />Siapa yang punya anak<br />Bilang aku aku yang tengah malu<br />Sama teman-temanku<br />Karna cuma diriku yang tak laku-laku</p><p><br />Pengumuman-pengumuman<br />Siapa yang mau bantu<br />Tolong aku kasihani aku<br />Tolong carikan diriku kekasih hatiku<br />Siapa yang mau</p><p><br />Ibu bapak punya anak<br />Bilang-bilang aku aku yang tengah malu<br />Sama teman-temanku<br />Karna cuma diriku yang tak laku-laku</p><p><br />Pengumuman-pengumuman<br />Siapa yang mau bantu<br />Tolong aku kasihani aku<br />Tolong carikan diriku kekasih hatiku<br />Siapa yang mau</p>"
+	},
+	{
+      "id": 18,
+      "name_category": "PILIHAN B",
+      "title": "DIK",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI18.ogg",
+      "lyrics": "<p>Dik<br />Aku pinta kau akan slalu setia<br />Dik<br />Aku mohon kau slalu menemani</p><p><br />Saatku tengah terluka<br />Saatku tengah gundah</p><p><br />Reff:<br />Ku akan menjagamu<br />Dibangun dan tidurmu<br />Disemua mimpi dan nyatamu</p><p><br />Ku akan menjagamu<br />Tuk hidup dan matimu<br />Tak ingin tak ingin kau rapuh</p><p><br />Dik<br />Jangan engkau pergi tinggalkan aku<br />Dik<br />Ingin aku cinta dan cinta slalu</p><p><br />Saat kau tengah terluka<br />Saat kau tengah gundah</p><p><br />Ku akan menjagamu<br />Dibangun dan tidurmu<br />Disemua mimpi dan nyatamu</p><p><br />Ku akan menjagamu<br />Tuk hidup dan matimu<br />Tak ingin tak ingin kau rapuh</p><p><br />Kau akan menjagaku<br />Dibangun dan tidurku<br />Disemua mimpi dan nyataku<br />Kau akan menjagaku<br />Tuk hidup dan matiku<br />Tak ingin tak ingin kau rapuh</p>"
+	},
+	{
+      "id": 19,
+      "name_category": "PILIHAN B",
+      "title": "EGOKAH AKU",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI19.ogg",
+      "lyrics": "<p>Ku tak pernah merasa<br />Gundah di hatiku<br />Ketika denganmu<br />Saat kau<br />Kau belai rambutku<br />Kau temani aku Kau basuh lukaku</p><p><br />Kini semua berlalu<br />Karna engkau tak memilihku</p><p><br />[Reff:]<br />Salahkah aku mencintaimu<br />Walau ku tau ku tak di hatimu<br />Egokah aku memilikimu<br />Walau ku tau kau tak memilihku</p><p><br />Ku harap Tuhan<br />Cabut nyawamu<br />Agar tak ada yang milikimu</p><p><br />Sadarkah<br />Kiniku tak rela indahku tlah sirna<br />Mimpiku tak nyata</p><p><br />Kini semua berlalu<br />Karna engkau tak memilihku</p>"
+	},
+	{
+      "id": 20,
+      "name_category": "PILIHAN B",
+      "title": "HARGA DIRIKU",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI20.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 21,
+      "name_category": "PILIHAN B",
+      "title": "SAYANG LAHIR BATIN",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI21.ogg",
+      "lyrics": ""
+	},
+    {
+      "id": 22,
+      "name_category": "PILIHAN B",
+      "title": "TOBAT MAKSIAT",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI22.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 23,
+      "name_category": "PILIHAN B",
+      "title": "AKU SAKIT",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI23.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 24,
+      "name_category": "PILIHAN B",
+      "title": "CINTA DI UJUNG NAFAS",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI24.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 25,
+      "name_category": "PILIHAN B",
+      "title": "JOMBLO DITINGGAL",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI25.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 26,
+      "name_category": "PILIHAN B",
+      "title": "KEKASIH HALAL",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI26.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 27,
+      "name_category": "PILIHAN B",
+      "title": "KAMU BOHONG",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI27.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 28,
+      "name_category": "PILIHAN B",
+      "title": "PUASKAH",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI28.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 29,
+      "name_category": "PILIHAN B",
+      "title": "WASIAT SANG KEKASIH",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI29.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 30,
+      "name_category": "PILIHAN B",
+      "title": "YANG PENTING HALAL",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI30.ogg",
+      "lyrics": ""
+	},
+	{
+      "id": 31,
+      "name_category": "PILIHAN B",
+      "title": "YANK",
+      "image": "file:///android_asset/image/PB.png",
+      "link_mp3": "mp3/WALDUKAPKI31.ogg",
+      "lyrics": ""
+	}
+  ]
+}
