@@ -1,0 +1,87 @@
+{  
+
+"Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "x",
+      "main_ads_intertitial":"x",
+      "backup_ads_banner":"qwerty12345",
+      "backup_ads_intertitial":"qwerty12345",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+    "More":
+  [
+    {
+      "title":"LATTO LATTO",
+      "image":"file:///android_asset/INI/LA1.png",
+      "link":""
+    }
+  ],
+  "Weblink":
+  [
+    {
+      "title":"Tutorial Bermain Latto Latto 1",
+      "description":"Cara cepat menjadi pro player latto latto",
+      "image":"file:///android_asset/INI/LA1.png",
+      "link":"file:///android_asset/INI/LA1.html"
+    },
+    {
+      "title":"Tutorial Bermain Latto Latto 2",
+      "description":"Cara cepat menjadi pro player latto latto",
+      "image":"file:///android_asset/INI/LA2.png",
+      "link":"file:///android_asset/INI/LA2.html"
+    },
+    {
+      "title":"Tutorial Bermain Latto Latto 3",
+      "description":"Cara cepat menjadi pro player latto latto",
+      "image":"file:///android_asset/INI/LA3.png",
+      "link":"file:///android_asset/INI/LA3.html"
+    },
+    {
+      "title":"Tutorial Bermain Latto Latto 4",
+      "description":"Cara cepat menjadi pro player latto latto",
+      "image":"file:///android_asset/INI/LA4.png",
+      "link":"file:///android_asset/INI/LA4.html"
+    },
+    {
+      "title":"Tutorial Bermain Latto Latto 5",
+      "description":"Cara cepat menjadi pro player latto latto",
+      "image":"file:///android_asset/INI/LA5.png",
+      "link":"file:///android_asset/INI/LA5.html"
+    },
+    {
+      "title":"Tutorial Bermain Latto Latto 6",
+      "description":"Cara cepat menjadi pro player latto latto",
+      "image":"file:///android_asset/INI/LA6.png",
+      "link":"file:///android_asset/INI/LA6.html"
+    },
+    {
+      "title":"Video Bermain Latto Latto 1",
+      "description":"Cara cepat menjadi pro player latto latto",
+      "image":"file:///android_asset/INI/LA7.png",
+      "link":"file:///android_asset/INI/LAV1.html"
+    },
+    {
+      "title":"Video Bermain Latto Latto 2",
+      "description":"Cara cepat menjadi pro player latto latto",
+      "image":"file:///android_asset/INI/LA8.png",
+      "link":"file:///android_asset/INI/LAV2.html"
+    },{
+    "title":"Video Bermain Latto Latto Tanpa Suara",
+    "description":"Cara cepat menjadi pro player latto latto",
+    "image":"file:///android_asset/INI/LA9.png",
+    "link":"file:///android_asset/INI/LAV3.html"
+  }
+  ]
+}
